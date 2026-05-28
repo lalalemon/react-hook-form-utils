@@ -198,3 +198,5 @@ npm test
 ## License
 
 [MIT](LICENSE)
+
+<!-- history: 2026-05-28 -->
