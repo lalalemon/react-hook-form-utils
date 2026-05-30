@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-30
+
+- wip: useAutoSave hook module skeleton
+
 ## 2026-05-28
 
 - feat: add core form persistence implementation
