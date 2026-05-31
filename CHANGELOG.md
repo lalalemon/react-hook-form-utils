@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-31
+
+- test: add initial test suite
+
 ## 2026-05-30
 
 - wip: useAutoSave hook module skeleton
