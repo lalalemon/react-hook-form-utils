@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-01
+
+- refactor: restructure validators module
+
 ## 2026-05-31
 
 - test: add initial test suite
