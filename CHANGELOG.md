@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-02
+
+- feat: error handling for useAutoSave hook
+
 ## 2026-06-01
 
 - refactor: restructure validators module
