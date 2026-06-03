@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-03
+
+- refactor: restructure type definitions module
+
 ## 2026-06-02
 
 - feat: error handling for useAutoSave hook
