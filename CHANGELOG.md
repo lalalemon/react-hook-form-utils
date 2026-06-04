@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-04
+
+- feat: error handling for useFieldHistory
+
 ## 2026-06-03
 
 - refactor: restructure type definitions module
