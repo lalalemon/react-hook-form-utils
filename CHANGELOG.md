@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-05
+
+- docs: update README with examples
+
 ## 2026-06-04
 
 - feat: error handling for useFieldHistory
