@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-07
+
+- chore: add CI configuration
+
 ## 2026-06-05
 
 - docs: update README with examples
