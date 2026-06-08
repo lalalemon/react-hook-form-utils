@@ -1,0 +1,32 @@
+{
+  "name": "react-hook-form-utils",
+  "version": "0.1.0",
+  "description": "Utility hooks and validators for React Hook Form — auto-save, field history, persistence, and validation",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "tsc --noEmit"
+  },
+  "keywords": ["react", "react-hook-form", "hooks", "form", "validation", "auto-save", "undo-redo"],
+  "author": "lalalemon",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-hook-form": ">=7.0.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.0.0",
+    "@types/react": "^19.0.0",
+    "jsdom": "^25.0.0",
+    "react": "^19.0.0",
+    "react-hook-form": "^7.54.0",
+    "tsup": "^8.0.0",
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0"
+  }
+}
